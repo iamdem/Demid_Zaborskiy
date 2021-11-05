@@ -1,2 +1,2 @@
 # Demid_Zaborskiy
-* [Demid_Zaborskyi.py](Demid_Zaborskyi.py) - completed tasks for Python basic knowledge homework 
+* [Demid_Zaborskiy.py](Demid_Zaborskiy.py) - completed tasks for Python basic knowledge homework (Python_Tasks brench) 
